@@ -1,0 +1,71 @@
+header{
+background: blue; 
+
+}
+.logo{
+	color: white;
+	
+}
+li{
+	display: inline-block;
+}
+.main{
+	color: white;
+	font-size: 16px;
+}
+.aboutus{
+	color: white;
+	font-size: 16px;
+}
+.services{
+	color: white;
+}
+.projects{
+	color: white;
+	font-size: 16px;
+}
+.partners{
+	color: white;
+	font-size: 16px;
+}
+.contact{
+	color: black;
+	font-size: 16px;
+}
+.mainphoto{
+	object-position: bottom center;
+	height: 600 px;
+
+}
+
+p{
+	color: black;
+	font-size: 28px;
+    vertical-align: middle;
+}
+.text{
+	color: black;
+	font-size: 16px;
+}
+
+footer{ background: blue; 
+}
+span{
+	color: white;
+	font-size: 32px;
+}
+.anothertext{
+	color: whites;
+	font-size: 16px;
+}
+.info{
+	color: white;
+	font-size: 22px;
+}
+
+
+
+
+
+
+
